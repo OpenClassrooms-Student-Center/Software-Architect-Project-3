@@ -5,8 +5,8 @@
 ## Project Artifacts
 
 * [System Architectures](./architectures)
-* [Client Brief](./documents/client_brief)
-* [Development Process Workflow](./documents/process_workflow)
-* [Current technologies/systems](./documents/used_tech_and_databases)
-* [ERD](./images/db_diagram)
-* [Information System Audit Report Template](./documents/information_system_audit_report_template)
+* [Client Brief](./documents/client_brief.docx)
+* [Development Process Workflow](./documents/process_workflow.docx)
+* [Current technologies/systems](./documents/used_tech_and_databases.docx)
+* [ERD](./images/db_diagram.png)
+* [Information System Audit Report Template](./documents/information_system_audit_report_template.docx)
