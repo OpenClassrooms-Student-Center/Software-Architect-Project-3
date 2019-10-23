@@ -1,11 +1,11 @@
-![A++ Logistics Logo](./images/logo.png)
+![A++ Logistics Logo](./logo.png)
 
 # System Audit Project Repository
 
 ## Project Artifacts
 
-* [Client Brief](./artifacts/system-architectures/)
-* [System Architectures](./artifacts/architectures/)
-* [Development Process Workflow](./artifacts/workflow/)
-* [Current technologies/systems](./artifacts/technologies/)
-* [Information System Audit Report Template](./artifacts/template/)
+* [Client Brief](./client_brief/)
+* [System Architectures](./architectures/architectures_list/)
+* [Development Process Workflow](./artifacts/process_workflow/)
+* [Current technologies/systems](./artifacts/used_tech_and_databases/)
+* [Information System Audit Report Template](./artifacts/information_system_audit_report_template/)
